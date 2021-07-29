@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Avez-Anwar/React-Recipe-Finder/static/css/main.c98bc474.chunk.css",
+    "main.js": "/Avez-Anwar/React-Recipe-Finder/static/js/main.bf4225f7.chunk.js",
+    "main.js.map": "/Avez-Anwar/React-Recipe-Finder/static/js/main.bf4225f7.chunk.js.map",
+    "runtime-main.js": "/Avez-Anwar/React-Recipe-Finder/static/js/runtime-main.0d043e5a.js",
+    "runtime-main.js.map": "/Avez-Anwar/React-Recipe-Finder/static/js/runtime-main.0d043e5a.js.map",
+    "static/js/2.c4db0bb0.chunk.js": "/Avez-Anwar/React-Recipe-Finder/static/js/2.c4db0bb0.chunk.js",
+    "static/js/2.c4db0bb0.chunk.js.map": "/Avez-Anwar/React-Recipe-Finder/static/js/2.c4db0bb0.chunk.js.map",
+    "static/js/3.58cf0c96.chunk.js": "/Avez-Anwar/React-Recipe-Finder/static/js/3.58cf0c96.chunk.js",
+    "static/js/3.58cf0c96.chunk.js.map": "/Avez-Anwar/React-Recipe-Finder/static/js/3.58cf0c96.chunk.js.map",
+    "index.html": "/Avez-Anwar/React-Recipe-Finder/index.html",
+    "static/css/main.c98bc474.chunk.css.map": "/Avez-Anwar/React-Recipe-Finder/static/css/main.c98bc474.chunk.css.map",
+    "static/js/2.c4db0bb0.chunk.js.LICENSE.txt": "/Avez-Anwar/React-Recipe-Finder/static/js/2.c4db0bb0.chunk.js.LICENSE.txt",
+    "static/media/ice-cream.f5cb5dfd.png": "/Avez-Anwar/React-Recipe-Finder/static/media/ice-cream.f5cb5dfd.png",
+    "static/media/logo.381949d5.svg": "/Avez-Anwar/React-Recipe-Finder/static/media/logo.381949d5.svg",
+    "static/media/logo.6ce24c58.svg": "/Avez-Anwar/React-Recipe-Finder/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d043e5a.js",
+    "static/js/2.c4db0bb0.chunk.js",
+    "static/css/main.c98bc474.chunk.css",
+    "static/js/main.bf4225f7.chunk.js"
+  ]
+}
